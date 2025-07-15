@@ -1,0 +1,7 @@
+font-family = MesloLGS NF
+font-style = Regular
+font-size = 18
+
+shell-integration = zsh
+
+theme = tokyonight
